@@ -1,4 +1,3 @@
-- Passion 
-- Loisir
-- Vie quotidienne
+Modifier le fichier php pour y ajouter la partie html.
+
 
